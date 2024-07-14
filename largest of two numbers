@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+int a,b
+{
+printf("The a is large:");
+}
+else{
+printf("The a is not large:");
+}
+}
